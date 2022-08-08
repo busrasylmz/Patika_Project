@@ -6,6 +6,7 @@ public class NotOrtalamasi {
 
     public static void main(String[] args) {
 
+
             Scanner scan = new Scanner(System.in);
 
             int mat, fizik,kimya,turkce,tarih,muzik;
